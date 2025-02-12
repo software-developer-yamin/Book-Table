@@ -58,8 +58,3 @@
    ```bash
    pnpm run dev
    ```
-# Book-Table
-# Book-Table
-# Book-Table
-# Book-Table
-# Book-Table
